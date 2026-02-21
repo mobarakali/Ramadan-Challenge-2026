@@ -1,33 +1,5 @@
 # Ramadan-Challenge-2026
-## Day 1
 
-### Tailwind CSS
-
-Watch: https://www.youtube.com/watch?v=-iW1Wa5SVhkv
-
-Run the Tailwind CLI:
-
-```
-npx @tailwindcss/cli -i ./assets/css/input.css -o ./assets/css/output.css --watch
-```
-
-### Tailwind CSS Portfolio Project:  Repository structure
-
-```
-Ramadan-Challenge-2026/
-├── .gitignore
-├── README.md
-└── tailwind-css/
-    └── portfolio/
-        ├── assets/
-        │   ├── css/
-        │   │   ├── input.css
-        │   │   └── output.css
-        │   ├── images/
-        │   └── js/
-        ├── index.html
-        ├── package.json
-        ├── package-lock.json
-        └── node_modules/
-```
-
+- ### [Day 01: February 19, 2026](activities/Day01.md)
+- ### Day 02:Februayr 20, 2026 - No Activity
+- ### [Day 03: February 21, 2026](activities/Day03.md)
