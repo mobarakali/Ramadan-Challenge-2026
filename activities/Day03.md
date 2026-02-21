@@ -4,7 +4,7 @@
 
 ### JavaScript
 
-I have learned the following topics today:
+I have covered the following topics today:
 
 - [Lesson 01: What is JavaScript](../JavaScript/tutorial-01/topic.md)
 - [Lesson 02: JavaScript Output](../JavaScript/tutorial-02/topic.md)

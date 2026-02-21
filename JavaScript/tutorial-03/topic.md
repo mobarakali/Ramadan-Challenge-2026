@@ -22,6 +22,5 @@ Tutorial Link : https://www.youtube.com/watch?v=BVo3rTdAyjo
       'Block Comment' or 'Multiline Comment' like this one.*/
 ```
 
-
 Using comment we can prevent code execution of that line or block, additionaly we can provide instruction or information
-related to that code. 
+related to that code.
