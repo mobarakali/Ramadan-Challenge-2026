@@ -1,0 +1,34 @@
+# Day 1 : February 19, 2026
+
+## Topics Covered 
+
+### Tailwind CSS
+
+Watch: https://www.youtube.com/watch?v=-iW1Wa5SVhkv
+
+Run the Tailwind CLI:
+
+```
+npx @tailwindcss/cli -i ./assets/css/input.css -o ./assets/css/output.css --watch
+```
+
+### Tailwind CSS Portfolio Project:  Repository structure
+
+```
+Ramadan-Challenge-2026/
+├── .gitignore
+├── README.md
+└── tailwind-css/
+    └── portfolio/
+        ├── assets/
+        │   ├── css/
+        │   │   ├── input.css
+        │   │   └── output.css
+        │   ├── images/
+        │   └── js/
+        ├── index.html
+        ├── package.json
+        ├── package-lock.json
+        └── node_modules/
+```
+
