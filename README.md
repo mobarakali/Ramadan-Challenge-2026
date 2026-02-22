@@ -7,3 +7,5 @@
 - ### Day 02:Februayr 20, 2026 - No Activity
   
 - ### [Day 03: February 21, 2026](activities/Day03.md)
+  
+- ### [Day 04: February 22, 2026](activities/Day04.md)
