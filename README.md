@@ -9,3 +9,5 @@
 - ### [Day 03: February 21, 2026](activities/Day03.md)
   
 - ### [Day 04: February 22, 2026](activities/Day04.md)
+
+- ### [Day 05: February 23, 2026](activities/Day05.md)
