@@ -13,3 +13,5 @@
 - ### [Day 05: February 23, 2026](activities/Day05.md)
 
 - ### [Day 06: February 24, 2026](activities/Day06.md)
+
+- ### [Day 07: February 25, 2026](activities/Day07.md)

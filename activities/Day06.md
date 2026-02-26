@@ -6,4 +6,4 @@
 
 I have covered the following JavaScript topics today:
 
-- [Tutorial 06: JavaScript DataTypes](../JavaScript/tutorial-07/topic.md)
+- [Tutorial 07: JavaScript DataTypes](../JavaScript/tutorial-07/topic.md)
