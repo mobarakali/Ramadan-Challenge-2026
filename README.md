@@ -15,3 +15,7 @@
 - ### [Day 06: February 24, 2026](activities/Day06.md)
 
 - ### [Day 07: February 25, 2026](activities/Day07.md)
+
+- ### Day 08:Februayr 26, 2026 - No Activity
+
+- ### [Day 09: February 27, 2026](activities/Day09.md)
