@@ -1,4 +1,4 @@
-# JavaScript Tutorial 08 - JavaScript Math Object & it's Number Methods Explained
+# JavaScript Tutorial 09 - JavaScript String Formatting, Concatenation and Template Literals
 
 ## Topics Covered
 
